@@ -23,7 +23,7 @@ Musikalody APP is a dynamic quiz application that uses both online and offline m
 To get started with the Musikalody APP, clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/albert3661/Musikalody_APP.git ```
+git clone https://github.com/albert3661/Musikalody_APP.git 
 `cd Musikalody_APP`
 ## API Key Configuration
 Obtain an API key from OpenAI.
